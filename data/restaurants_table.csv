@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,category,area
+REST_01,Spice Symphony,North Indian,Indiranagar
+REST_02,The Golden Dosa,South Indian,Jayanagar
+REST_03,Royal Biryani House,Biryani & Mughlai,Koramangala
+REST_04,Wok & Roll,Chinese & Asian,Marathahalli
+REST_05,Bella Italia,Italian,Indiranagar
+REST_06,Burger Bistro,Fast Food,HSR Layout
+REST_07,The Salad Bowl,Healthy & Salads,Whitefield
+REST_08,Sweet Retreat,Desserts,BTM Layout
+REST_09,Cafe Daybreak,Continental & Beverages,Malleshwaram
+REST_10,Tandoori Nights,North Indian,Koramangala
