@@ -1,5 +1,15 @@
 # 🍔 Food Delivery Operations & Customer Insights System
-### 📈 Zomato & Swiggy Analytics Dashboard (2026 Data Analyst Portfolio)
+### 📡 Swiggy & Zomato Operations Control Hub
+
+<div align="center">
+  
+  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://swiggy-zomato-food-delivery-analysis-azsxnftnagslnvuvfhurr5.streamlit.app/)
+  
+  <br>
+  
+  ![Dashboard Banner](./dashboard_preview.png)
+  
+</div>
 
 <!-- Dynamic Badges Panel -->
 <p align="left">
